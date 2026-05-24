@@ -3,6 +3,8 @@
 ## Goal
 Test Xandria note capabilities systematically, starting with image handling.
 
+I am making some changes here in remote!
+
 
 What is wrong, does this note even auto save?
 Nothing it still doesnt save. 
