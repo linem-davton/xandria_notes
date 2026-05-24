@@ -42,6 +42,7 @@ jhcvas
 $$x = y$$
 
 ### Books to Read
+![Pasted image|578|left](../images/9282a38b5fb7dfb29d4d0d357f3a333be9f70ab824503476bb3d7c7ffabccf24.jpg)
 
 | # | Title | Subject area |
 |---|---|---|
@@ -59,6 +60,6 @@ $$x = y$$
 ---
 
 ## This is some Test Diag
-![Pasted image|578](../images/9282a38b5fb7dfb29d4d0d357f3a333be9f70ab824503476bb3d7c7ffabccf24.jpg)![Hand drawing|640](../drawings/drw_7fedfa3644af402c84fbae14ce24e60f.png)
+![Hand drawing|640](../drawings/drw_7fedfa3644af402c84fbae14ce24e60f.png)
 
 ----
