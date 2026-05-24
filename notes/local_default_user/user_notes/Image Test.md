@@ -29,9 +29,9 @@ And I think, 2 s is better for auto save!
 - Relative image path is stored correctly
 - Note remains stable after reopen![Pasted image|425](../images/3c8182f06a9a1fac8a87eefbfb9d9af746fb16e8bda98fddc4b9c5f761ddb5f7.png)
 - Multiple images render correctly in one note
+![Pasted image](../images/fb50af93d94c8135d02a2fb41049f787ae0f06122679639c8f564a5812bfbf00.jpg)
 - Searchability of note title/metadata
 - Backlinks or source-link behavior if applicable
-![Pasted image](../images/fb50af93d94c8135d02a2fb41049f787ae0f06122679639c8f564a5812bfbf00.jpg)
 ## Current test items
 ### 1. Pasted image (PNG)
 **Status:** Needs re-test
