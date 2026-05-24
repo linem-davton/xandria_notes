@@ -8,7 +8,7 @@ I am making some changes here in remote!
 ANd this are some changes here from new save!
 
 
-What is wrong, does this note even auto save?
+What is wrong,** does this note** even auto save?
 Nothing it still doesnt save. 
 
 Does auto save work now!
@@ -47,7 +47,7 @@ And I think, 2 s is better for auto save!
 ![Pasted image|560](../images/0b0b3808c69c35dd397def7fa9a3c2fed59725210f0341b653f3e8bd7ccbaeeb.jpg)
 
 ## Test checklist
-- [ ] Confirm both images render correctly
+- [x] Confirm both images render correctly
 - [ ] Reopen the note and confirm image persistence
 - [ ] Edit surrounding text and save again
 - [ ] Add bullet list and checklist
@@ -58,6 +58,7 @@ And I think, 2 s is better for auto save!
 - [ ] Check backlinks or source-link behavior if applicable
 
 ## Test cases to run next
+
 ### Formatting
 - Bold, italic, inline code
 
