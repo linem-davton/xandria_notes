@@ -165,3 +165,15 @@ graph TD
 
 ## Next step
 Run one capability area at a time: formatting, media, linking, retrieval, then editing behavior.
+
+## High-level picture of computer systems
+
+At a high level, a computer system transforms **input** into **output** under the control of programs.
+
+- **Input devices** bring data into the system.
+- The **CPU** executes instructions and coordinates work.
+- **Memory** holds data and instructions that are currently in use.
+- **Storage** keeps data and programs for longer-term use.
+- **Output devices** present results back to the user or another system.
+
+The big picture is that hardware and software work together: software provides the instructions, while hardware carries them out through coordinated movement of data between processor, memory, storage, and I/O.
