@@ -2,6 +2,10 @@
 
 There is this something that needs to be fixed!
 
+# Semantic Smoke
+blue copper zettelkasten retrieval phrase       
+What is going on?
+
 
 ## Goal
 Test Xandria note capabilities systematically, starting with image handling.
