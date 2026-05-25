@@ -6,6 +6,8 @@ There is this something that needs to be fixed!
 blue copper zettelkasten retrieval phrase       
 What is going on?
 
+# Semantic Test 2
+This is another test!
 
 ## Goal
 Test Xandria note capabilities systematically, starting with image handling.
