@@ -41,8 +41,8 @@ And I think, 2 s is better for auto save!
 **What I did:** Pasted an image into the note.
 **Observed result:** Image reference is present in the note.
 **Expected result:** Image should render reliably and persist after reopening.
-
 ![Hand drawing|640](../drawings/drw_a472519b0b464c19b9902aea586c958a.png)
+
 
 
 
