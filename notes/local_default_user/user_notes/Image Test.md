@@ -16,6 +16,7 @@ I am making some changes here in remote!
 
 ANd this are some changes here from new save!
 
+
 This save is from background sync - Lets hope so! 
 
 This commit is from Agent
@@ -41,6 +42,7 @@ And I think, 2 s is better for auto save!
 - Multiple images render correctly in one note
 - Searchability of note title/metadata
 - Backlinks or source-link behavior if applicable
+
 ## Current test items
 ### 1. Pasted image (PNG)
 **Status:** Needs re-test
