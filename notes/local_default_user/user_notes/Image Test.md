@@ -16,10 +16,14 @@ I am making some changes here in remote!
 
 ANd this are some changes here from new save!
 
+![Hand drawing|640](../drawings/drw_5c9fc40beebd4b80957fe542680c13a7.png)
 
 This save is from background sync - Lets hope so! 
 
 This commit is from Agent
+
+
+
 
 This commit is from Agent 2nd
 
@@ -105,16 +109,6 @@ And I think, 2 s is better for auto save!
 - Search by note body text
 - Search by unique keyword inserted into the note
 
-### Editing behavior
-- Save/reopen stability
-- Dirty-state behavior
-- Multi-tab behavior
-- Focused note update workflow
-
-## Issues / observations
-- 
-## Test matrix
-What is going on here?
 | Feature | Test step | Expected result | Actual result | Status | Notes |
 |---|---|---|---|---|---|
 | Image paste (PNG) | **Paste PNG into note** | Image renders and persists after reopen | $x^2$ |  | |
@@ -125,6 +119,17 @@ What is going on here?
 | Backlinks | Link this note from another note | Backlink becomes visible if supported |  |  |  |
 | Mermaid diagram | Insert Mermaid diagram block | Diagram block is preserved and renders if supported |  |  |  |
 
+
+### Editing behavior
+- Save/reopen stability
+- Dirty-state behavior
+- Multi-tab behavior
+- Focused note update workflow
+
+## Issues / observations
+- 
+## Test matrix
+What is going on here?
 ## Detailed results log
 - Some More Markdown
 - And Some More things here
