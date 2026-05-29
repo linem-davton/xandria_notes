@@ -149,7 +149,7 @@ What is going on here?
 
 This What is going on and what is wrong with that? 
 
-```mermaid
+```mermaid {align=left}
 graph TD
     A[Create note] --> B[Paste image]
     B --> C[Save note]
@@ -159,6 +159,7 @@ graph TD
 ```
 
 ## Mermaid diagram test: How computers work
+
 ```mermaid {width=351}
 graph TD
     A[Input devices] --> B[CPU]
@@ -168,7 +169,6 @@ graph TD
     C --> B
     D --> B
 ```
-
 
 ## Next step
 Run one capability area at a time: formatting, media, linking, retrieval, then editing behavior.
