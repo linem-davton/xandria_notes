@@ -46,7 +46,8 @@ projects: []
 
 ## Source Links
 - Reading progress recorded as in progress at about 2%.
-- Recent session evidence on 2026-05-29 reached page 10 in the PDF reader.
+- Durable reading progress last opened at 2026-05-29T20:18:18.802Z with stored location at page 10.
+- Recent reading sessions on 2026-05-29 totaled about 23 minutes and reached page 10 in the PDF reader.
 
 ## Open Questions
 - Which learning track, goal, or project this resource should support is not yet recorded.
