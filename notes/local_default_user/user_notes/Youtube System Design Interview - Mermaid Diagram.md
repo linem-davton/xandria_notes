@@ -47,6 +47,7 @@ flowchart TD
     PIPE --> FEAT
 ```
 
+
 ## Talking points
 - Upload path: upload → object storage → queue → transcoding → thumbnails
 - Serving path: users → CDN → metadata/API → video chunks from cache/storage
