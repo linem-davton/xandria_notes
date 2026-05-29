@@ -30,3 +30,5 @@ Dashboard for learning tracks, weak spots, and practice.
 ## Paused Or Archived Tracks
 
 ## Open Learning Questions
+
+- Does this reading belong under a more specific metallurgy or welding learning track page if future notes, annotations, or related materials accumulate?
