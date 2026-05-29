@@ -26,7 +26,7 @@ Concrete wiki correctness, consistency, and gap issues only.
 ## Gaps
 
 <!-- xandria:generated-section id="reviews.gaps" -->
-- No gaps currently tracked.
+- [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]] - severity: `medium` - affected: [[index|index.md]], [[reviews|reviews/index.md]], [[reviews/missing-review-pages-from-job-hints|reviews/missing-review-pages-from-job-hints.md]]
 <!-- /xandria:generated-section -->
 
 ## Resolved Items
@@ -38,5 +38,7 @@ Concrete wiki correctness, consistency, and gap issues only.
 ## Related Pages
 
 <!-- xandria:generated-section id="reviews.related_pages" -->
-- No related review pages currently tracked.
+- [[index|index.md]]: [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]]
+- [[reviews|reviews/index.md]]: [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]]
+- [[reviews/missing-review-pages-from-job-hints|reviews/missing-review-pages-from-job-hints.md]]: [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]]
 <!-- /xandria:generated-section -->

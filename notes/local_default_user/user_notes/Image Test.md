@@ -9,6 +9,8 @@ What is going on?
 # Semantic Test 2
 This is another test!
 
+
+
 ## Goal
 Test Xandria note capabilities systematically, starting with image handling.
 
