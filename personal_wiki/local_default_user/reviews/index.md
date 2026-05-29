@@ -20,7 +20,7 @@ Concrete wiki correctness, consistency, and gap issues only.
 ## Consistency Issues
 
 <!-- xandria:generated-section id="reviews.consistency" -->
-- [[reviews/broken-review-schema|Broken Review Schema]] - severity: `medium` - affected: [[reviews/missing-review-pages-from-job-hints|reviews/missing-review-pages-from-job-hints.md]]
+- No consistency issues currently tracked.
 <!-- /xandria:generated-section -->
 
 ## Gaps
@@ -38,5 +38,5 @@ Concrete wiki correctness, consistency, and gap issues only.
 ## Related Pages
 
 <!-- xandria:generated-section id="reviews.related_pages" -->
-- [[reviews/missing-review-pages-from-job-hints|reviews/missing-review-pages-from-job-hints.md]]: [[reviews/broken-review-schema|Broken Review Schema]]
+- No related review pages currently tracked.
 <!-- /xandria:generated-section -->
