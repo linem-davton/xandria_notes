@@ -92,6 +92,10 @@ for i in range(3):
 
 
 
+![Hand drawing|640](../drawings/drw_db35a48337d14caea828d5a72d800157.png)
+
+
+
 
 ---
 

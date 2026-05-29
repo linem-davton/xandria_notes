@@ -1,31 +1,31 @@
 ---
 schema_version: 1
-title: "Broken Schema: Index"
+title: Broken Schema Resolved
 page_status: active
 aliases:
-  - broken schema index
+  - resolved broken schema
 category: consistency
-review_status: open
+review_status: resolved
 severity: medium
 affected_pages:
-  - index
+  - unknown
 detected_by: deterministic-maintenance
 ---
 
-# "Broken Schema: Index"
+# Broken Schema Resolved
 
 ## Problem
 
-The affected page does not match the locked Personal Wiki frontmatter, typed-block, or generated-section schema.
+The previous schema issue tracked by `reviews/broken-schema-index.md` is no longer detected.
 
 ## Evidence
 
-- `missing_frontmatter`: Page is missing canonical YAML frontmatter.
+- Deterministic maintenance did not find a current schema issue for the affected page.
 
 ## Candidate Fix
 
-Update `index` so its frontmatter and typed blocks match the path-derived page family schema.
+No action is currently required.
 
 ## Resolution
 
-Open until the affected page validates cleanly.
+Resolved by deterministic maintenance.

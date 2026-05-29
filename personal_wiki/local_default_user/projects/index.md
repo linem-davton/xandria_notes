@@ -43,3 +43,27 @@
 <!-- xandria:generated-section id="projects.open_questions" -->
 - No open project questions tracked yet.
 <!-- /xandria:generated-section -->
+
+## By Goal
+
+<!-- xandria:generated-section id="projects.by_goal" -->
+- No project goal links tracked yet.
+<!-- /xandria:generated-section -->
+
+## By Life Area
+
+<!-- xandria:generated-section id="projects.by_life_area" -->
+- No project life-area links tracked yet.
+<!-- /xandria:generated-section -->
+
+## Blocked Or At Risk
+
+<!-- xandria:generated-section id="projects.blocked_or_at_risk" -->
+- No blocked or at-risk projects tracked yet.
+<!-- /xandria:generated-section -->
+
+## Recently Changed
+
+<!-- xandria:generated-section id="projects.recently_changed" -->
+- [[projects/robotics|Robotics]]
+<!-- /xandria:generated-section -->

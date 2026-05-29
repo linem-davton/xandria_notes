@@ -20,7 +20,8 @@ Concrete contradictions and evidence gaps only.
 ## Resolved Items
 
 <!-- xandria:generated-section id="reviews.resolved" -->
-- No resolved review items tracked yet.
+- [[reviews/broken-schema-index|Broken Schema Resolved]] - severity: `medium` - affected: [[unknown]]
+- [[reviews/broken-schema-learning|Broken Schema Resolved]] - severity: `medium` - affected: [[learning]]
 <!-- /xandria:generated-section -->
 
 ## Related Pages
@@ -33,8 +34,6 @@ Concrete contradictions and evidence gaps only.
 - [[finance/budget]]: [[reviews/broken-schema-finance-budget|Broken Schema: Budget]]
 - [[finance/subscriptions]]: [[reviews/broken-schema-finance-subscriptions|Broken Schema: Subscriptions]]
 - [[goals]]: [[reviews/broken-schema-goals|Broken Schema: Goals]]
-- [[index]]: [[reviews/broken-schema-index|Broken Schema: Index]]
-- [[learning]]: [[reviews/broken-schema-learning|Broken Schema: Learning]]
 - [[life-areas]]: [[reviews/broken-schema-life-areas|Broken Schema: Life Areas]]
 - [[life-areas/family]]: [[reviews/broken-schema-life-areas-family|Broken Schema: Family]]
 - [[life-areas/finance]]: [[reviews/broken-schema-life-areas-finance|Broken Schema: Finance Life Area]]
@@ -50,7 +49,7 @@ Concrete contradictions and evidence gaps only.
 - [[projects]]: [[reviews/broken-schema-projects|Broken Schema: Projects]]
 - [[projects/robotics]]: [[reviews/broken-schema-projects-robotics|Broken Schema: Robotics]]
 - [[resources]]: [[reviews/broken-schema-resources|Broken Schema: Resources]], [[reviews/broken-link-resources-to-resources-books|Broken Wiki Link: resources]], [[reviews/broken-link-resources-to-resources-papers|Broken Wiki Link: resources]], [[reviews/broken-link-resources-to-resources-tools|Broken Wiki Link: resources]], [[reviews/broken-link-resources-to-resources-websites|Broken Wiki Link: resources]]
-- [[reviews]]: [[reviews/broken-schema-reviews|Broken Schema: Reviews]]
+- [[reviews]]: [[reviews/broken-schema-reviews|Broken Schema: Reviews]], [[reviews/broken-link-reviews-to-unknown|Broken Wiki Link: reviews]]
 - [[self/boundaries]]: [[reviews/broken-schema-self-boundaries|Broken Schema: Boundaries]]
 - [[self/preferences]]: [[reviews/broken-schema-self-preferences|Broken Schema: Preferences]]
 - [[self/profile]]: [[reviews/broken-schema-self-profile|Broken Schema: Profile]]
@@ -81,8 +80,6 @@ Concrete contradictions and evidence gaps only.
 - [[reviews/broken-schema-life-areas-health|Broken Schema: Health]] - severity: `medium` - affected: [[life-areas/health]]
 - [[reviews/broken-schema-life-areas-hobbies|Broken Schema: Hobbies]] - severity: `medium` - affected: [[life-areas/hobbies]]
 - [[reviews/broken-schema-life-areas-home|Broken Schema: Home]] - severity: `medium` - affected: [[life-areas/home]]
-- [[reviews/broken-schema-index|Broken Schema: Index]] - severity: `medium` - affected: [[index]]
-- [[reviews/broken-schema-learning|Broken Schema: Learning]] - severity: `medium` - affected: [[learning]]
 - [[reviews/broken-schema-life-areas|Broken Schema: Life Areas]] - severity: `medium` - affected: [[life-areas]]
 - [[reviews/broken-schema-people|Broken Schema: People]] - severity: `medium` - affected: [[people]]
 - [[reviews/broken-schema-plans|Broken Schema: Plans]] - severity: `medium` - affected: [[plans]]
@@ -93,6 +90,8 @@ Concrete contradictions and evidence gaps only.
 - [[reviews/broken-schema-resources|Broken Schema: Resources]] - severity: `medium` - affected: [[resources]]
 - [[reviews/broken-schema-reviews|Broken Schema: Reviews]] - severity: `medium` - affected: [[reviews]]
 - [[reviews/broken-schema-projects-robotics|Broken Schema: Robotics]] - severity: `medium` - affected: [[projects/robotics]]
+- [[reviews/broken-schema-life-areas-study|Broken Schema: Study]] - severity: `medium` - affected: [[life-areas/study]]
+- [[reviews/broken-schema-finance-subscriptions|Broken Schema: Subscriptions]] - severity: `medium` - affected: [[finance/subscriptions]]
 <!-- /xandria:generated-section -->
 
 ## Gaps
