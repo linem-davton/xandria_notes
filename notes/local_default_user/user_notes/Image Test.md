@@ -52,8 +52,8 @@ And I think, 2 s is better for auto save!
 **Status:** Needs re-test
 **What I did:** Pasted an image into the note.
 **Observed result:** Image reference is present in the note.
-**Expected result:** Image should render reliably and persist after reopening.
 ![Hand drawing|640](../drawings/drw_a472519b0b464c19b9902aea586c958a.png)
+**Expected result:** Image should render reliably and persist after reopening.
 
 
 
@@ -149,7 +149,9 @@ What is going on here?
 
 This What is going on and what is wrong with that? 
 
-```mermaid {align=left}
+
+## Mermaid diagram test: How computers work
+```mermaid {align=center}
 graph TD
     A[Create note] --> B[Paste image]
     B --> C[Save note]
@@ -157,8 +159,6 @@ graph TD
     D --> E[Verify rendering]
     E --> F[Record result]
 ```
-
-## Mermaid diagram test: How computers work
 
 ```mermaid {width=351}
 graph TD
