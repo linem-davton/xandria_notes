@@ -62,7 +62,7 @@ And I think, 2 s is better for auto save!
 ### 2. Pasted image (JPG)
 **Status:** Needs re-test
 **What I did:** Added a second image to the note.
-![Pasted image|560](../images/0b0b3808c69c35dd397def7fa9a3c2fed59725210f0341b653f3e8bd7ccbaeeb.jpg)
+![Pasted image|560|left](../images/0b0b3808c69c35dd397def7fa9a3c2fed59725210f0341b653f3e8bd7ccbaeeb.jpg)
 **Observed result:** A second image reference is present in the note.
 **Expected result:** Multiple embedded images should render reliably and persist after reopening.
 
@@ -159,7 +159,7 @@ graph TD
 ```
 
 ## Mermaid diagram test: How computers work
-```mermaid
+```mermaid {width=351}
 graph TD
     A[Input devices] --> B[CPU]
     B --> C[Memory]
