@@ -12,9 +12,10 @@ This is another test!
 ## Goal
 Test Xandria note capabilities systematically, starting with image handling.
 
-I am making some changes here in remote!
+I am making some changes here in remote! hkh kh kh 
 
-ANd this are some changes here from new save!
+And this are some changes here from new save!
+And this is how we work, and yes. And yes, it is now. 
 
 ![Hand drawing|640](../drawings/drw_5c9fc40beebd4b80957fe542680c13a7.png)
 
@@ -38,7 +39,7 @@ What is going on now, and not that I want to do something with that!
 And I think, 2 s is better for auto save!
 
 ## What I want to verify
-- Image paste works
+- Image paste works khk and yes, we are wrong?
 ![Pasted image](../images/fb50af93d94c8135d02a2fb41049f787ae0f06122679639c8f564a5812bfbf00.jpg)
 - Image renders correctly in the note preview/editor
 - Relative image path is stored correctly
