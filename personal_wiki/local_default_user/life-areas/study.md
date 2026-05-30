@@ -19,6 +19,8 @@ Recent reading activity also shows exploratory exposure to communication systems
 
 New notebook and reading-progress activity further strengthens current study evidence around robotics and embedded systems, Python and machine learning, C++ and scientific computing, signals and systems, logic, probability, competitive programming, algebraic topology, leadership/management reading, and Batman comics as leisure reading.
 
+Additional recent activity strengthens current study evidence around deep learning mathematics, time-frequency signal processing, differential geometry, mechanics, and fault diagnosis/control engineering.
+
 ## Active Goals
 
 ## Active Projects Or Efforts
@@ -30,6 +32,8 @@ A mechanics reading list and collection indicate current curation around foundat
 Current notebook and reading-progress activity indicate broad exploratory sampling rather than a single focused study track across several domains.
 
 Recent activity also suggests active sampling of several adjacent technical tracks at once rather than commitment to one canonical learning track: robotics, deep learning, Python programming, C++ systems/scientific computing, signals/systems, control, nonlinear dynamics, reinforcement learning, logic, probability, and competitive programming.
+
+Recent notebook evidence also suggests exploratory clustering around mathematically oriented machine learning and signal-processing foundations rather than only application-level reading.
 
 ## People
 
@@ -67,6 +71,12 @@ Recent activity also suggests active sampling of several adjacent technical trac
 - Guide to Competitive Programming — in-progress readable
 - A First Course in Probability — in-progress readable
 - Three Sigma Leadership: Or, the Way of the Chief Engineer — newly opened readable
+- Deep Learning — readable notebook with saved highlights on pseudoinverse, trace operator, Euclidean/Frobenius norms, and PCA-adjacent linear algebra concepts
+- Time-Frequency Toolbox — readable notebook with saved highlights on instantaneous frequency, group delay, and stationary signals
+- Time-Frequency Analysis — recently touched signal-processing monograph; current exposure evidence only
+- The Hilbert-Huang Transform in Engineering — recently touched signal-processing resource; current exposure evidence only
+- Theory of Machines — in-progress mechanics reading
+- Fault-diagnosis systems : an introduction from fault detection to fault tolerance — in-progress control/fault-diagnosis reading
 
 ## Notes
 
@@ -82,10 +92,12 @@ Recent readable notebooks show saved highlight-based notes for *Reward is enough
 
 Recent readable notebooks also contain saved highlights for *Embedded Robotics*, *Computers as Persuasive Social Actors*, and *Mining urban lifestyles: urban computing, human behavior and recommender systems*. These support durable evidence of exploratory technical reading, especially around robotics, human-computer interaction, and recommender systems, but not mastery.
 
-Newly non-empty readable notebooks add direct evidence of exploratory reading in control systems and computer systems. The *Computer-Controlled Systems: Theory and Design* notebook contains saved highlights about limits of linear time-invariant continuous-time theory for computer-controlled systems, digital differential analyzers, system identification, and interrupt-driven process control. The *Computer Systems: A Programmer's Perspective* notebook contains saved highlights around Cygwin tools, K&R C, GNU gcc on IA32/x86-64, arithmetic overflow as a source of programming errors and security vulnerabilities, the Y86 teaching ISA, and pipelining.
+Newly non-empty readable notebooks add direct evidence of exploratory reading in control systems and computer systems. The *Computer-Controlled Systems: Theory and Design* notebook contains saved highlights about limits of linear time-invariant continuous-time theory for computer-controlled systems, digital differential analyzers, system identification, and interrupt-driven process control. The *Computer Systems: A Programmer's Perspective* notebook contains saved highlights about Amdahl's law, processor frequency scaling, and compiler/interpreter distinctions.
 
-Recent reading progress adds exposure evidence for *Mathematical Introduction to Logic*, *Robotics Research*, *Guide to Competitive Programming*, and *A First Course in Probability*, plus newly opened exposure to *A Basic Course in Algebraic Topology*, *The 7 Habits of Highly Effective People*, and *Three Sigma Leadership*.
+Newly non-empty readable notebooks also add direct evidence of exploratory reading in deep learning mathematics and signal processing. The *Deep Learning* notebook contains saved highlights on the Moore-Penrose pseudoinverse, singular value decomposition context, Euclidean and Frobenius norms, and determinant intuition. The *Time-Frequency Toolbox* notebook contains saved highlights on instantaneous frequency, group delay, and stationary signals.
 
-Several newly touched readable notebooks remain empty, including *Python 3 Object-Oriented Programming, Second Edition*, *Manufacturing Consent*, *The Little Book of Deep Learning*, *Understanding the Incel Community on YouTube*, *Nonlinear Dynamics and Chaos*, and *Reinforcement Learning: An Introduction*; these indicate interest or setup rather than durable extracted understanding.
+Recent reading progress adds durable exposure evidence for *Theory of Machines* (mechanics), *Fault-diagnosis systems : an introduction from fault detection to fault tolerance* (control/fault diagnosis), and continued in-progress reading of *Introduction to Smooth Manifolds* (differential geometry). The progress data indicates active exposure and continuation, not mastery.
+
+Empty or near-empty notebooks for *Time-Frequency Analysis*, *The Hilbert-Huang Transform in Engineering*, *Against the Grain*, *Instructor's Solution Manual to Accompany Mechanical Engineering Design - Chapter 2*, *INTRODUCTION TO HYPersonic FLOW*, and *Gauss and the history of the fast Fourier transform* indicate recent touch or setup but do not yet add durable extracted understanding beyond exploratory interest.
 
 ## Open Questions
