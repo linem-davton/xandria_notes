@@ -31,6 +31,8 @@ Further mid-May 2026 reading-progress evidence adds exploratory study in practic
 
 Late-May 2026 reading-progress activity adds further exploratory exposure across thermodynamics, general relativity/cosmology, robotics, evolutionary biology, engineering dynamics, computer systems, and networking, including one nearly finished networking text and one half-read general relativity text.
 
+The newest late-May 2026 reading-progress batch adds more small-session exposure in engineering mechanics/strength of materials, continues active welding/metallurgy reading, and also shows leisure reading in romance fiction and comics.
+
 ## Active Goals
 
 ## Active Projects Or Efforts
@@ -55,6 +57,8 @@ The additional mid-May 2026 reading-progress batch keeps the same pattern: sever
 
 This late-May batch continues the same breadth-first pattern: multiple technical textbooks were opened or advanced across physics, engineering, biology, networking, robotics, and computer systems, but there is still not enough evidence to safely create dedicated learning-track pages from reading progress alone.
 
+The latest batch reinforces the same pattern: several unrelated books were only lightly opened, so the durable takeaway is breadth-first exploration plus leisure reading rather than commitment to any new canonical track.
+
 ## People
 
 ## Events And Travel
@@ -71,53 +75,28 @@ This late-May batch continues the same breadth-first pattern: multiple technical
 - Signals and Systems — recently opened readable with small in-progress progress
 - Guide to Scientific Computing in C++ — recently opened readable with small in-progress progress
 - Reward is enough — readable notebook with saved highlights and notes
-- Introduction to Smooth Manifolds — readable notebook with saved highlights and notes
-- Modern Digital and Analog Communication Systems — recently opened readable
-- All of Statistics — recently opened readable
-- Software Architecture: The Hard Parts — recently opened readable
-- Computer Networking: A Top-Down Approach — recently opened readable
-- Catch-22 — recently opened readable
-- The Handmaid's Tale — recently opened readable
-- Applied mechanics — mechanics reading-list resource
-- Classical Mechanics — mechanics reading-list resource
-- Advanced Engineering Dynamics — mechanics reading-list resource
-- Computer-Controlled Systems — recently opened readable
-- Bayesian Reasoning and Machine Learning — recently opened readable
-- Causal Inference in Statistics — recently opened readable
-- The Picture of Dorian Gray — recently opened readable
-- Designing Data-Intensive Applications — recently opened readable
-- C++ Primer — recently opened readable
-- Reinforcement Learning: An Introduction — recently opened readable
-- Fault-Diagnosis Applications — recently opened readable
-- Time Series Analysis and Its Applications — recently opened readable
-- Signals and Systems for Bioengineers — recently opened readable
-- Fundamentals of Aerospace Navigation and Guidance — recently opened readable
-- Circuits, Signals, and Systems for Bioengineers — recently opened readable
-- Fluid Mechanics — recently opened readable
-- The Idiot — recently opened readable
-- Introduction to Machine Learning with Python — recently opened readable
-- Digital Design and Computer Architecture — recently opened readable
-- Strength of Materials — recently opened readable
-- Cybernetics — recently opened readable
-- Thermodynamics Fundamentals — recently opened readable with very small in-progress progress
-- TCP/IP Illustrated, Volume 1: The Protocols — nearly finished readable from recent reading-progress activity
-- Gravity: an Introduction to Einstein's General Relativity — half-read readable from recent reading-progress activity
-- Springer Handbook of Robotics — newly opened readable
-- The Selfish Gene — newly opened readable
-- Engineering Mechanics: Dynamics — newly opened readable
-- A Brief History of Time — recently opened readable with very small in-progress progress
-- Computer Systems: A Programmer's Perspective — recently opened readable with very small in-progress progress
+- Introduction to Probability — readable notebook with saved highlights and notes
+- Logic For Computer Science — readable notebook with saved highlights and notes
+- Competitive Programmer’s Handbook — readable notebook with saved highlights and notes
+- Designing Data-Intensive Applications — active reading evidence from late May 2026
+- Thermodynamics: An Engineering Approach — active reading evidence from late May 2026
+- Gravity: An Introduction to Einstein's General Relativity — about half read in late May 2026
+- The Protocols — nearly finished readable from recent reading-progress activity
+- Engineering mechanics / strength-of-materials text by R. C. Hibbeler — lightly opened in late May 2026 via local file titled `0132642875.pdf`
+- John's Journey: A Tale of Heartbreak and Redemption — lightly opened romance fiction readable in late May 2026
+- Kingdom Come (2019) (digital) (Son of Ultron-Empire) — lightly opened comic readable in late May 2026
 
 ## Notes
 
-Recent notebook edits for *Reward is enough* and *Introduction to Smooth Manifolds* add concrete note evidence for reinforcement-learning-adjacent AI reading and differential-geometry study.
+This page intentionally summarizes durable study direction and evidence rather than logging every reading session.
 
-Recent notebook edits for *Embedded Robotics* add concrete note evidence for robotics and embedded-systems study.
+Reading progress alone is treated as exposure or intent evidence, not proof of mastery.
 
-Several newly opened readable notebooks are still empty, so they currently count as exposure/intent evidence rather than durable understanding.
+Broad repeated exposure across adjacent technical domains is now well grounded, but the evidence still supports a breadth-first exploratory study pattern more strongly than any narrow, committed curriculum.
 
-This page intentionally treats reading progress as exposure and active interest, not mastery.
+Leisure reading is worth retaining here only when it helps explain the user's recurring mix of technical study with fiction and comics.
 
 ## Open Questions
 
-- Should the broad study area eventually be split into dedicated learning tracks such as control systems, machine learning, robotics, or systems programming once there is stronger note density or project linkage?
+- Should any repeatedly revisited technical cluster eventually be promoted into its own dedicated learning track page?
+- Does the recurring mix of technical study and leisure reading belong in a separate hobbies page instead of remaining summarized here?
