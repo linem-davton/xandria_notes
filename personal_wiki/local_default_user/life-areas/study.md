@@ -21,6 +21,8 @@ New notebook and reading-progress activity further strengthens current study evi
 
 Additional recent activity strengthens current study evidence around deep learning mathematics, time-frequency signal processing, differential geometry, mechanics, and fault diagnosis/control engineering.
 
+Newly reconciled activity adds further evidence of broad exploratory study spanning nonlinear system identification, data-driven modeling and control, engineering leadership, and some philosophical/literary reading.
+
 ## Active Goals
 
 ## Active Projects Or Efforts
@@ -34,6 +36,8 @@ Current notebook and reading-progress activity indicate broad exploratory sampli
 Recent activity also suggests active sampling of several adjacent technical tracks at once rather than commitment to one canonical learning track: robotics, deep learning, Python programming, C++ systems/scientific computing, signals/systems, control, nonlinear dynamics, reinforcement learning, logic, probability, and competitive programming.
 
 Recent notebook evidence also suggests exploratory clustering around mathematically oriented machine learning and signal-processing foundations rather than only application-level reading.
+
+The latest notebook set continues to look like breadth-first exploration rather than a single committed syllabus, with technical/control texts mixed alongside leadership, memoir, philosophy, and fiction.
 
 ## People
 
@@ -77,6 +81,18 @@ Recent notebook evidence also suggests exploratory clustering around mathematica
 - The Hilbert-Huang Transform in Engineering — recently touched signal-processing resource; current exposure evidence only
 - Theory of Machines — in-progress mechanics reading
 - Fault-diagnosis systems : an introduction from fault detection to fault tolerance — in-progress control/fault-diagnosis reading
+- Nonlinear System Identification — newly opened control/system-identification textbook
+- Data Driven Science & Engineering — readable notebook activity on data-driven modeling, machine learning, dynamical systems, and control
+- Man's Search for Meaning — recently noted philosophical/psychological reading
+- Notes from underground — recently noted literary/philosophical fiction
+- Wetware — recently noted biology/computation reading
+- A Tour of C++, Third Edition — in-progress programming/systems reading
+- The Sandman - Preludes and Nocturnes 001 (1991) — in-progress comic reading
+- Batman - The Dark Knight Returns 30th Anniversary Edition (2019) — in-progress comic reading
+- Harry Potter Series Book 1-7 — in-progress leisure reading
+- Harry Potter and the Deathly Hallows (2007) — in-progress leisure reading
+- 1984 — newly opened fiction reading
+- Adventures of Huckleberry Finn — newly opened fiction reading
 
 ## Notes
 
@@ -86,18 +102,11 @@ A user note titled "Learning Summary and Related Links" summarizes recurring lea
 
 A user note titled "Computers - Starter Note" outlines a one-week starter plan using *A Tour of C++*, *Advanced Data Structures*, and *Artificial Intelligence: A Modern Approach* as seed books for computer-systems study.
 
-A mechanics reading list contains Applied mechanics, Classical Mechanics, and Advanced Engineering Dynamics. A separate Mechanics collection currently contains one mechanics readable.
+A mechanics reading list contains Applied mechanics, Classical Mechanics, and Advanced Engineering Dynamics. A separate Mechanics collection currently contains one mechanics-related readable.
 
-Recent readable notebooks show saved highlight-based notes for *Reward is enough* and *Introduction to Smooth Manifolds*. Several other recently touched readable notebooks are still empty, so they indicate interest or setup rather than durable extracted understanding.
-
-Recent readable notebooks also contain saved highlights for *Embedded Robotics*, *Computers as Persuasive Social Actors*, and *Mining urban lifestyles: urban computing, human behavior and recommender systems*. These support durable evidence of exploratory technical reading, especially around robotics, human-computer interaction, and recommender systems, but not mastery.
-
-Newly non-empty readable notebooks add direct evidence of exploratory reading in control systems and computer systems. The *Computer-Controlled Systems: Theory and Design* notebook contains saved highlights about limits of linear time-invariant continuous-time theory for computer-controlled systems, digital differential analyzers, system identification, and interrupt-driven process control. The *Computer Systems: A Programmer's Perspective* notebook contains saved highlights about Amdahl's law, processor frequency scaling, and compiler/interpreter distinctions.
-
-Newly non-empty readable notebooks also add direct evidence of exploratory reading in deep learning mathematics and signal processing. The *Deep Learning* notebook contains saved highlights on the Moore-Penrose pseudoinverse, singular value decomposition context, Euclidean and Frobenius norms, and determinant intuition. The *Time-Frequency Toolbox* notebook contains saved highlights on instantaneous frequency, group delay, and stationary signals.
-
-Recent reading progress adds durable exposure evidence for *Theory of Machines* (mechanics), *Fault-diagnosis systems : an introduction from fault detection to fault tolerance* (control/fault diagnosis), and continued in-progress reading of *Introduction to Smooth Manifolds* (differential geometry). The progress data indicates active exposure and continuation, not mastery.
-
-Empty or near-empty notebooks for *Time-Frequency Analysis*, *The Hilbert-Huang Transform in Engineering*, *Against the Grain*, *Instructor's Solution Manual to Accompany Mechanical Engineering Design - Chapter 2*, *INTRODUCTION TO HYPersonic FLOW*, and *Gauss and the history of the fast Fourier transform* indicate recent touch or setup but do not yet add durable extracted understanding beyond exploratory interest.
+Recent notebook edits for *Three Sigma Leadership*, *Man's Search for Meaning*, *Nonlinear System Identification*, *Notes from underground*, *Wetware*, and *Data Driven Science & Engineering* were all saved with empty Markdown, so they count only as exposure/intent signals rather than durable extracted notes.
 
 ## Open Questions
+
+- Should current broad technical study be split into dedicated learning tracks such as control systems, machine learning mathematics, programming/systems, or signal processing if repeated evidence continues?
+- Is the current mix of comics and literary fiction worth tracking under a separate leisure-reading preference or life area if it continues to recur?
