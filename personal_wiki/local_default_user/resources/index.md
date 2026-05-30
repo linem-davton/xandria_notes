@@ -19,7 +19,7 @@ Dashboard for curated sources and resource judgments.
 ## Books
 
 <!-- xandria:generated-section id="resources.books" -->
-- No book resources tracked yet.
+- [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]]
 <!-- /xandria:generated-section -->
 
 ## Papers
@@ -49,5 +49,6 @@ Dashboard for curated sources and resource judgments.
 ## Recently Added
 
 <!-- xandria:generated-section id="resources.recently_added" -->
+- [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]]
 - [[resources|Resources]]
 <!-- /xandria:generated-section -->
