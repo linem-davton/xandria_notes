@@ -53,8 +53,7 @@ No specific goal, project, or learning track is yet grounded in the wiki.
 ## Notes And Annotations
 
 - Durable reading progress: in progress, about 6% read as of 2026-05-30.
-- Reading session evidence in the current activity window covered roughly pages 10 through 26.
-- One highlight was created on page 25 in the section `1.4.3 Electrodes`.
+- Reading session evidence in the current activity window briefly reopened the book at page 26.
 - The linked readable notebook currently exists but has no saved Markdown content.
 
 ## Source Links

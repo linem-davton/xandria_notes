@@ -38,8 +38,6 @@ car is cat
 
 ---
 
-jacgkckga
-jhcvas
 
 $$x = y$$
 
