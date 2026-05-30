@@ -1,34 +1,31 @@
 ---
 schema_version: 1
-title: "Broken Wiki Link: life-areas/study"
+title: Broken Link Resolved
 page_status: active
 aliases:
-  - broken link life-areas/study
+  - resolved broken link
 category: consistency
-review_status: open
+review_status: resolved
 severity: medium
 affected_pages:
   - life-areas/study
 detected_by: deterministic-maintenance
 ---
 
-# Broken Wiki Link: life-areas/study
+# Broken Link Resolved
 
 ## Problem
 
-The affected page links to a Personal Wiki page that does not currently exist.
+The previous broken-link issue tracked by `reviews/broken-link-life-areas-study-to-resources-book-designing-data-intensive-applications.md` is no longer detected.
 
 ## Evidence
 
-- Source page: `life-areas/study` (Study)
-- Link target: `resources/book/designing-data-intensive-applications`
-- Normalized target id: `wiki:resources/book/designing-data-intensive-applications`
-- Anchor text: `Designing Data-Intensive Applications`
+- Deterministic maintenance did not find a current missing wiki target for the affected page.
 
 ## Candidate Fix
 
-Create the missing target page if it is a real gap, or update/remove the link in `life-areas/study` if it is stale.
+No further fix is needed unless the issue recurs.
 
 ## Resolution
 
-Open until the source link resolves to an existing Personal Wiki page or is removed.
+Resolved by deterministic maintenance.

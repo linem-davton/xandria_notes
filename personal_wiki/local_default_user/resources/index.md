@@ -19,6 +19,7 @@ Dashboard for curated sources and resource judgments.
 ## Books
 
 <!-- xandria:generated-section id="resources.books" -->
+- [[resources/book/designing-data-intensive-applications|Designing Data-Intensive Applications]]
 - [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]]
 <!-- /xandria:generated-section -->
 
@@ -50,5 +51,6 @@ Dashboard for curated sources and resource judgments.
 
 <!-- xandria:generated-section id="resources.recently_added" -->
 - [[resources|Resources]]
+- [[resources/book/designing-data-intensive-applications|Designing Data-Intensive Applications]]
 - [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]]
 <!-- /xandria:generated-section -->
