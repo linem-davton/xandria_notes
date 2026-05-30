@@ -17,6 +17,8 @@ Recent notes and library organization also show active exploratory study across 
 
 Recent reading activity also shows exploratory exposure to communication systems, networking, software architecture, statistics, reinforcement learning, differential geometry, and literary fiction.
 
+New notebook and reading-progress activity further strengthens current study evidence around robotics and embedded systems, Python and machine learning, C++ and scientific computing, and signals and systems.
+
 ## Active Goals
 
 ## Active Projects Or Efforts
@@ -27,6 +29,8 @@ A mechanics reading list and collection indicate current curation around foundat
 
 Current notebook and reading-progress activity indicate broad exploratory sampling rather than a single focused study track across several domains.
 
+Recent activity also suggests active sampling of several adjacent technical tracks at once rather than commitment to one canonical learning track: robotics, deep learning, Python programming, C++ systems/scientific computing, and signals/systems.
+
 ## People
 
 ## Events And Travel
@@ -36,6 +40,12 @@ Current notebook and reading-progress activity indicate broad exploratory sampli
 ## Resources
 
 - [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]]
+- Embedded Robotics — readable notebook with saved highlights and notes
+- Deep Learning with Python — readable notebook currently empty, but paired with recent notebook activity and technical study context
+- MIT C++ Combined — readable notebook currently empty, but paired with recent notebook activity and technical study context
+- Python for Everybody — readable notebook currently empty, but paired with recent notebook activity and technical study context
+- Signals and Systems — recently opened readable with small in-progress progress
+- Guide to Scientific Computing in C++ — recently opened readable with small in-progress progress
 - Reward is enough — readable notebook with saved highlights and notes
 - Introduction to Smooth Manifolds — readable notebook with saved highlights and notes
 - Modern Digital and Analog Communication Systems — recently opened readable
@@ -59,5 +69,9 @@ A user note titled "Computers - Starter Note" outlines a one-week starter plan u
 A mechanics reading list contains Applied mechanics, Classical Mechanics, and Advanced Engineering Dynamics. A separate Mechanics collection currently contains one mechanics readable.
 
 Recent readable notebooks show saved highlight-based notes for *Reward is enough* and *Introduction to Smooth Manifolds*. Several other recently touched readable notebooks are still empty, so they indicate interest or setup rather than durable extracted understanding.
+
+Recent readable notebooks also contain saved highlights for *Embedded Robotics*, *Computers as Persuasive Social Actors*, and *Mining urban lifestyles: urban computing, human behavior and recommender systems*. These support durable evidence of exploratory technical reading, especially around robotics, human-computer interaction, and recommender systems, but not mastery.
+
+Recent reading progress adds low-progress exposure evidence for *Signals and Systems* and *Guide to Scientific Computing in C++*.
 
 ## Open Questions
