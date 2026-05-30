@@ -49,6 +49,6 @@ Dashboard for curated sources and resource judgments.
 ## Recently Added
 
 <!-- xandria:generated-section id="resources.recently_added" -->
-- [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]]
 - [[resources|Resources]]
+- [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]]
 <!-- /xandria:generated-section -->
