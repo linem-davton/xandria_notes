@@ -62,6 +62,6 @@ $$x = y$$
 ---
 
 ## This is some Test Diag
-![Hand drawing|640](../drawings/drw_7fedfa3644af402c84fbae14ce24e60f.png)
+![Hand drawing|640|left](../drawings/drw_7fedfa3644af402c84fbae14ce24e60f.png)
 
 ----
