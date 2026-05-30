@@ -29,6 +29,8 @@ Notebook and reading-progress activity from mid-May 2026 adds further evidence o
 
 Further mid-May 2026 reading-progress evidence adds exploratory study in practical machine learning with Python, digital systems design, strength of materials, and cybernetics, while reinforcing ongoing breadth-first sampling across computing and engineering topics rather than a single committed syllabus.
 
+Late-May 2026 reading-progress activity adds further exploratory exposure across thermodynamics, general relativity/cosmology, robotics, evolutionary biology, engineering dynamics, computer systems, and networking, including one nearly finished networking text and one half-read general relativity text.
+
 ## Active Goals
 
 ## Active Projects Or Efforts
@@ -50,6 +52,8 @@ The newest activity continues that breadth-first pattern, mixing technical textb
 Mid-May 2026 activity continues the same breadth-first pattern: mostly technical textbooks and references across multiple engineering/computing domains, plus occasional fiction, with only limited note density in this batch.
 
 The additional mid-May 2026 reading-progress batch keeps the same pattern: several partially read technical books across software, machine learning, mechanics, electronics, and systems theory, including one nearly finished introductory machine-learning text, but still without enough evidence to split out dedicated canonical learning tracks.
+
+This late-May batch continues the same breadth-first pattern: multiple technical textbooks were opened or advanced across physics, engineering, biology, networking, robotics, and computer systems, but there is still not enough evidence to safely create dedicated learning-track pages from reading progress alone.
 
 ## People
 
@@ -77,37 +81,43 @@ The additional mid-May 2026 reading-progress batch keeps the same pattern: sever
 - Applied mechanics — mechanics reading-list resource
 - Classical Mechanics — mechanics reading-list resource
 - Advanced Engineering Dynamics — mechanics reading-list resource
-- Computer-Controlled Systems: Theory and Design — readable notebook with saved highlights and notes
-- Computer Systems: A Programmer's Perspective — readable notebook with saved highlights and notes
-- Batman: The Killing Joke — in-progress comic reading
-- A Basic Course in Algebraic Topology — newly opened readable
-- The 7 Habits of Highly Effective People — newly opened readable
-- Mathematical Introduction to Logic — in-progress readable
-- Robotics Research — in-progress readable
-- Guide to Competitive Programming — in-progress readable
-- A First Course in Probability — in-progress readable
-- Three Sigma Leadership: Or, the Way of the Chief Engineer — newly opened readable
-- Designing Data-Intensive Applications — in-progress readable with durable progress around 12%
-- C++ Software Design — in-progress readable with durable progress around 1%
-- Introduction to Machine Learning with Python — nearly finished in-progress readable at about 97%
-- Machine Design Databook — in-progress readable with durable progress around 18%
-- Section 5 - Strength of Materials — in-progress readable with durable progress around 91%
-- Introduction to Digital Systems Design — in-progress readable with durable progress around 23%
-- An Introduction to Cybernetics — newly opened readable with minimal progress
+- Computer-Controlled Systems — recently opened readable
+- Bayesian Reasoning and Machine Learning — recently opened readable
+- Causal Inference in Statistics — recently opened readable
+- The Picture of Dorian Gray — recently opened readable
+- Designing Data-Intensive Applications — recently opened readable
+- C++ Primer — recently opened readable
+- Reinforcement Learning: An Introduction — recently opened readable
+- Fault-Diagnosis Applications — recently opened readable
+- Time Series Analysis and Its Applications — recently opened readable
+- Signals and Systems for Bioengineers — recently opened readable
+- Fundamentals of Aerospace Navigation and Guidance — recently opened readable
+- Circuits, Signals, and Systems for Bioengineers — recently opened readable
+- Fluid Mechanics — recently opened readable
+- The Idiot — recently opened readable
+- Introduction to Machine Learning with Python — recently opened readable
+- Digital Design and Computer Architecture — recently opened readable
+- Strength of Materials — recently opened readable
+- Cybernetics — recently opened readable
+- Thermodynamics Fundamentals — recently opened readable with very small in-progress progress
+- TCP/IP Illustrated, Volume 1: The Protocols — nearly finished readable from recent reading-progress activity
+- Gravity: an Introduction to Einstein's General Relativity — half-read readable from recent reading-progress activity
+- Springer Handbook of Robotics — newly opened readable
+- The Selfish Gene — newly opened readable
+- Engineering Mechanics: Dynamics — newly opened readable
+- A Brief History of Time — recently opened readable with very small in-progress progress
+- Computer Systems: A Programmer's Perspective — recently opened readable with very small in-progress progress
 
 ## Notes
-
-Recent notebook edits for *Deep Learning* and *Time-Frequency Toolbox* add concrete note evidence in mathematically oriented machine learning and signal-processing study areas.
-
-Recent notebook edits for *Computer-Controlled Systems: Theory and Design* and *Computer Systems: A Programmer's Perspective* add concrete note evidence for control engineering and systems/programming study.
 
 Recent notebook edits for *Reward is enough* and *Introduction to Smooth Manifolds* add concrete note evidence for reinforcement-learning-adjacent AI reading and differential-geometry study.
 
 Recent notebook edits for *Embedded Robotics* add concrete note evidence for robotics and embedded-systems study.
 
-The collection notes titled *Robotics*, *Maths*, and *Classical Robotics* updated in this batch had no saved Markdown content, so they support collection curation context only and do not add durable factual detail beyond the broader study pattern already captured here.
+Several newly opened readable notebooks are still empty, so they currently count as exposure/intent evidence rather than durable understanding.
+
+This page intentionally treats reading progress as exposure and active interest, not mastery.
 
 ## Open Questions
 
-- Should current broad technical study be split into dedicated learning tracks such as control systems, machine learning, robotics, or systems programming once there is stronger evidence of sustained focus?
-- Is there a durable study goal behind the current breadth-first exploration, or is broad sampling itself the intended mode for now?
+- Should the broad study area eventually be split into dedicated learning tracks such as control systems, machine learning, robotics, or systems programming once there is stronger note density or project linkage?
