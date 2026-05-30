@@ -155,7 +155,7 @@ This What is going on and what is wrong with that?
 
 
 ## Mermaid diagram test: How computers work
-```mermaid {align=center}
+```mermaid {align=left}
 graph TD
     A[Create note] --> B[Paste image]
     B --> C[Save note]
@@ -164,7 +164,7 @@ graph TD
     E --> F[Record result]
 ```
 
-```mermaid {width=351}
+```mermaid {width=351 align=left}
 graph TD
     A[Input devices] --> B[CPU]
     B --> C[Memory]
