@@ -13,8 +13,6 @@ size: 16:9
 
 $p = \pi$
 
-made some changes
-hklh lhlhkll hlh klhlkhl lkhl klhlh lhlkhl hlh lhlhlkhl hlkh lh lhklkh lhlkh lhkl hlhlkhl ljlhl hkl hlklhl lhlk lhlhlkhl lkh lkh lkhl hlhlh lh lh lhlk lhlh klh lhlhl kh lhl hlh lhk lhl hlh lkhl hlh lh lkh lhl hk lhlhlkh lh lhl hlh lhl hlh lh lh lhl kl lhlh lhk hl hklh ll hlkhlhl hlhlhlhlkhlahflahflhaklhlfhlfhaLFHAFHAFHAPOFAOPFiAFAOfAOFIHALFHAL;FHA;lfaofiaofyiFOIYOriyAOFYIaoFYAHFALHF;ALFHAfhALFHALfk;lfhAL;KFHALfhALFHALfAFKALFhALFHALFhlfalfhskls
 ---
 
 # AI
