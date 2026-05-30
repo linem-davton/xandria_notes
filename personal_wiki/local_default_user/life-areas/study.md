@@ -23,6 +23,10 @@ Additional recent activity strengthens current study evidence around deep learni
 
 Newly reconciled activity adds further evidence of broad exploratory study spanning nonlinear system identification, data-driven modeling and control, engineering leadership, and some philosophical/literary reading.
 
+Latest notebook and reading-progress activity adds further evidence of exploratory study in networking, computer systems, applied mathematics for physics/engineering, mechanics, reinforcement learning, machine learning in medicine, embedded systems, Bayesian networks and causal inference, and Victorian fiction.
+
+Notebook and reading-progress activity from mid-May 2026 adds further evidence of exploratory study in data-intensive systems, C++, reinforcement learning, fault diagnosis/control engineering, signal processing, time-series analysis, aerospace guidance/navigation/control, circuits and systems, fluid mechanics, and some literary fiction.
+
 ## Active Goals
 
 ## Active Projects Or Efforts
@@ -38,6 +42,10 @@ Recent activity also suggests active sampling of several adjacent technical trac
 Recent notebook evidence also suggests exploratory clustering around mathematically oriented machine learning and signal-processing foundations rather than only application-level reading.
 
 The latest notebook set continues to look like breadth-first exploration rather than a single committed syllabus, with technical/control texts mixed alongside leadership, memoir, philosophy, and fiction.
+
+The newest activity continues that breadth-first pattern, mixing technical textbooks and papers with literary reading rather than showing commitment to a single canonical learning track.
+
+Mid-May 2026 activity continues the same breadth-first pattern: mostly technical textbooks and references across multiple engineering/computing domains, plus occasional fiction, with only limited note density in this batch.
 
 ## People
 
@@ -79,34 +87,42 @@ The latest notebook set continues to look like breadth-first exploration rather 
 - Time-Frequency Toolbox — readable notebook with saved highlights on instantaneous frequency, group delay, and stationary signals
 - Time-Frequency Analysis — recently touched signal-processing monograph; current exposure evidence only
 - The Hilbert-Huang Transform in Engineering — recently touched signal-processing resource; current exposure evidence only
-- Theory of Machines — in-progress mechanics reading
-- Fault-diagnosis systems : an introduction from fault detection to fault tolerance — in-progress control/fault-diagnosis reading
-- Nonlinear System Identification — newly opened control/system-identification textbook
-- Data Driven Science & Engineering — readable notebook activity on data-driven modeling, machine learning, dynamical systems, and control
-- Man's Search for Meaning — recently noted philosophical/psychological reading
-- Notes from underground — recently noted literary/philosophical fiction
-- Wetware — recently noted biology/computation reading
-- A Tour of C++, Third Edition — in-progress programming/systems reading
-- The Sandman - Preludes and Nocturnes 001 (1991) — in-progress comic reading
-- Batman - The Dark Knight Returns 30th Anniversary Edition (2019) — in-progress comic reading
-- Harry Potter Series Book 1-7 — in-progress leisure reading
-- Harry Potter and the Deathly Hallows (2007) — in-progress leisure reading
-- 1984 — newly opened fiction reading
-- Adventures of Huckleberry Finn — newly opened fiction reading
+- Theory of Machines — in-progress mechanics reading with emphasis on kinematics/dynamics topics
+- Mechanics of Materials — in-progress mechanics reading
+- Differential Geometry and Lie Groups for Physicists — in-progress mathematical physics reading
+- Machine Learning in Medicine — recently opened readable
+- Bayesian Reasoning and Machine Learning — recently opened readable
+- The Victorian Internet — in-progress historical reading
+- Fault-diagnosis systems: an introduction from fault detection to fault tolerance — readable notebook currently empty, but notebook activity still indicates active attention
+- A Tour of C++, Third Edition — readable notebook currently empty, but notebook activity still indicates active attention
+- The Great Gatsby — in-progress fiction reading with saved highlights in chapter 1
+- A Course in Reinforcement Learning (2nd Edition) — readable notebook currently empty, but notebook activity still indicates active attention
+- [[resources/book/designing-data-intensive-applications|Designing Data-Intensive Applications]] — readable notebook with saved highlights on latency percentiles, JSON locality, and graph data models
+- Circuits, Systems and Signal Processing — in-progress readable near completion; exposure evidence only
+- ML-L5 — newly opened readable; title too ambiguous to classify beyond machine-learning-adjacent naming
+- Yearbook on Space Policy 2008/2009 — newly opened readable; exposure evidence only
+- Time Series Analysis: With Applications in R — newly opened readable; exposure evidence only
+- Advances in Aerospace Guidance, Navigation and Control — newly opened readable; exposure evidence only
+- /i/j/ps/bks/34938/index/pg1 — newly opened readable with unusable title metadata; exposure evidence only
+- 2500 Solved Problems in Fluid Mechanics and Hydraulics — newly opened readable with negligible progress; exposure evidence only
 
 ## Notes
 
-A current study resource page records active reading progress on welding metallurgy topics.
+Recent notebook edits for *Deep Learning* and *Time-Frequency Toolbox* add concrete note evidence in mathematically oriented machine learning and signal processing.
 
-A user note titled "Learning Summary and Related Links" summarizes recurring learning threads across AI and machine learning, control systems and dynamical systems, signal processing and applied mathematics, computer systems and programming, and engineering and physics-oriented topics.
+Recent notebook edits for *Computer-Controlled Systems*, *Computer Systems: A Programmer's Perspective*, *Differential Geometry and Lie Groups for Physicists*, and *Mechanics of Materials* add concrete note evidence across control, systems, mathematical physics, and mechanics.
 
-A user note titled "Computers - Starter Note" outlines a one-week starter plan using *A Tour of C++*, *Advanced Data Structures*, and *Artificial Intelligence: A Modern Approach* as seed books for computer-systems study.
+Notebook activity for *Machine Learning in Medicine* and *Bayesian Reasoning and Machine Learning* is currently empty in saved Markdown, so it supports attention/exposure but not detailed durable claims.
 
-A mechanics reading list contains Applied mechanics, Classical Mechanics, and Advanced Engineering Dynamics. A separate Mechanics collection currently contains one mechanics-related readable.
+Recent notebook edits for *The Victorian Internet* add literary/history reading evidence alongside technical study.
 
-Recent notebook edits for *Three Sigma Leadership*, *Man's Search for Meaning*, *Nonlinear System Identification*, *Notes from underground*, *Wetware*, and *Data Driven Science & Engineering* were all saved with empty Markdown, so they count only as exposure/intent signals rather than durable extracted notes.
+Recent notebook edits for *Deep Learning* and *Time-Frequency Toolbox* add concrete note evidence in mathematically oriented machine learning and signal processing.
+
+Recent notebook edits for *The Meaning of Meaning*, *Nonlinear System Identification*, *Notes from Underground*, and *Data Driven Science & Engineering* reinforce broad exploratory study rather than a single narrow track.
+
+Mid-May 2026 notebook evidence is mixed: *Designing Data-Intensive Applications* contains concrete highlights on latency percentiles, JSON locality, and graph data models; *The Great Gatsby* contains early chapter highlights; notebooks for *Fault-diagnosis systems*, *A Tour of C++*, and *A Course in Reinforcement Learning* are currently empty in saved Markdown and therefore support attention/exposure only.
 
 ## Open Questions
 
-- Should current broad technical study be split into dedicated learning tracks such as control systems, machine learning mathematics, programming/systems, or signal processing if repeated evidence continues?
-- Is the current mix of comics and literary fiction worth tracking under a separate leisure-reading preference or life area if it continues to recur?
+- Should current broad technical study be split into dedicated learning tracks such as control systems, machine learning, signal processing, systems/programming, or mechanics?
+- Is there a durable goal behind the current breadth-first reading pattern, or is it best treated as open-ended exploratory study?

@@ -20,7 +20,7 @@ Concrete wiki correctness, consistency, and gap issues only.
 ## Consistency Issues
 
 <!-- xandria:generated-section id="reviews.consistency" -->
-- No consistency issues currently tracked.
+- [[reviews/broken-link-life-areas-study-to-resources-book-designing-data-intensive-applications|Broken Wiki Link: life-areas/study]] - severity: `medium` - affected: [[life-areas/study]]
 <!-- /xandria:generated-section -->
 
 ## Gaps
@@ -39,6 +39,7 @@ Concrete wiki correctness, consistency, and gap issues only.
 
 <!-- xandria:generated-section id="reviews.related_pages" -->
 - [[index|index.md]]: [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]]
+- [[life-areas/study]]: [[reviews/broken-link-life-areas-study-to-resources-book-designing-data-intensive-applications|Broken Wiki Link: life-areas/study]]
 - [[reviews|reviews/index.md]]: [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]]
 - [[reviews/missing-review-pages-from-job-hints|reviews/missing-review-pages-from-job-hints.md]]: [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]]
 <!-- /xandria:generated-section -->
