@@ -27,6 +27,8 @@ Latest notebook and reading-progress activity adds further evidence of explorato
 
 Notebook and reading-progress activity from mid-May 2026 adds further evidence of exploratory study in data-intensive systems, C++, reinforcement learning, fault diagnosis/control engineering, signal processing, time-series analysis, aerospace guidance/navigation/control, circuits and systems, fluid mechanics, and some literary fiction.
 
+Further mid-May 2026 reading-progress evidence adds exploratory study in practical machine learning with Python, digital systems design, strength of materials, and cybernetics, while reinforcing ongoing breadth-first sampling across computing and engineering topics rather than a single committed syllabus.
+
 ## Active Goals
 
 ## Active Projects Or Efforts
@@ -46,6 +48,8 @@ The latest notebook set continues to look like breadth-first exploration rather 
 The newest activity continues that breadth-first pattern, mixing technical textbooks and papers with literary reading rather than showing commitment to a single canonical learning track.
 
 Mid-May 2026 activity continues the same breadth-first pattern: mostly technical textbooks and references across multiple engineering/computing domains, plus occasional fiction, with only limited note density in this batch.
+
+The additional mid-May 2026 reading-progress batch keeps the same pattern: several partially read technical books across software, machine learning, mechanics, electronics, and systems theory, including one nearly finished introductory machine-learning text, but still without enough evidence to split out dedicated canonical learning tracks.
 
 ## People
 
@@ -83,46 +87,27 @@ Mid-May 2026 activity continues the same breadth-first pattern: mostly technical
 - Guide to Competitive Programming — in-progress readable
 - A First Course in Probability — in-progress readable
 - Three Sigma Leadership: Or, the Way of the Chief Engineer — newly opened readable
-- Deep Learning — readable notebook with saved highlights on pseudoinverse, trace operator, Euclidean/Frobenius norms, and PCA-adjacent linear algebra concepts
-- Time-Frequency Toolbox — readable notebook with saved highlights on instantaneous frequency, group delay, and stationary signals
-- Time-Frequency Analysis — recently touched signal-processing monograph; current exposure evidence only
-- The Hilbert-Huang Transform in Engineering — recently touched signal-processing resource; current exposure evidence only
-- Theory of Machines — in-progress mechanics reading with emphasis on kinematics/dynamics topics
-- Mechanics of Materials — in-progress mechanics reading
-- Differential Geometry and Lie Groups for Physicists — in-progress mathematical physics reading
-- Machine Learning in Medicine — recently opened readable
-- Bayesian Reasoning and Machine Learning — recently opened readable
-- The Victorian Internet — in-progress historical reading
-- Fault-diagnosis systems: an introduction from fault detection to fault tolerance — readable notebook currently empty, but notebook activity still indicates active attention
-- A Tour of C++, Third Edition — readable notebook currently empty, but notebook activity still indicates active attention
-- The Great Gatsby — in-progress fiction reading with saved highlights in chapter 1
-- A Course in Reinforcement Learning (2nd Edition) — readable notebook currently empty, but notebook activity still indicates active attention
-- [[resources/book/designing-data-intensive-applications|Designing Data-Intensive Applications]] — readable notebook with saved highlights on latency percentiles, JSON locality, and graph data models
-- Circuits, Systems and Signal Processing — in-progress readable near completion; exposure evidence only
-- ML-L5 — newly opened readable; title too ambiguous to classify beyond machine-learning-adjacent naming
-- Yearbook on Space Policy 2008/2009 — newly opened readable; exposure evidence only
-- Time Series Analysis: With Applications in R — newly opened readable; exposure evidence only
-- Advances in Aerospace Guidance, Navigation and Control — newly opened readable; exposure evidence only
-- /i/j/ps/bks/34938/index/pg1 — newly opened readable with unusable title metadata; exposure evidence only
-- 2500 Solved Problems in Fluid Mechanics and Hydraulics — newly opened readable with negligible progress; exposure evidence only
+- Designing Data-Intensive Applications — in-progress readable with durable progress around 12%
+- C++ Software Design — in-progress readable with durable progress around 1%
+- Introduction to Machine Learning with Python — nearly finished in-progress readable at about 97%
+- Machine Design Databook — in-progress readable with durable progress around 18%
+- Section 5 - Strength of Materials — in-progress readable with durable progress around 91%
+- Introduction to Digital Systems Design — in-progress readable with durable progress around 23%
+- An Introduction to Cybernetics — newly opened readable with minimal progress
 
 ## Notes
 
-Recent notebook edits for *Deep Learning* and *Time-Frequency Toolbox* add concrete note evidence in mathematically oriented machine learning and signal processing.
+Recent notebook edits for *Deep Learning* and *Time-Frequency Toolbox* add concrete note evidence in mathematically oriented machine learning and signal-processing study areas.
 
-Recent notebook edits for *Computer-Controlled Systems*, *Computer Systems: A Programmer's Perspective*, *Differential Geometry and Lie Groups for Physicists*, and *Mechanics of Materials* add concrete note evidence across control, systems, mathematical physics, and mechanics.
+Recent notebook edits for *Computer-Controlled Systems: Theory and Design* and *Computer Systems: A Programmer's Perspective* add concrete note evidence for control engineering and systems/programming study.
 
-Notebook activity for *Machine Learning in Medicine* and *Bayesian Reasoning and Machine Learning* is currently empty in saved Markdown, so it supports attention/exposure but not detailed durable claims.
+Recent notebook edits for *Reward is enough* and *Introduction to Smooth Manifolds* add concrete note evidence for reinforcement-learning-adjacent AI reading and differential-geometry study.
 
-Recent notebook edits for *The Victorian Internet* add literary/history reading evidence alongside technical study.
+Recent notebook edits for *Embedded Robotics* add concrete note evidence for robotics and embedded-systems study.
 
-Recent notebook edits for *Deep Learning* and *Time-Frequency Toolbox* add concrete note evidence in mathematically oriented machine learning and signal processing.
-
-Recent notebook edits for *The Meaning of Meaning*, *Nonlinear System Identification*, *Notes from Underground*, and *Data Driven Science & Engineering* reinforce broad exploratory study rather than a single narrow track.
-
-Mid-May 2026 notebook evidence is mixed: *Designing Data-Intensive Applications* contains concrete highlights on latency percentiles, JSON locality, and graph data models; *The Great Gatsby* contains early chapter highlights; notebooks for *Fault-diagnosis systems*, *A Tour of C++*, and *A Course in Reinforcement Learning* are currently empty in saved Markdown and therefore support attention/exposure only.
+The collection notes titled *Robotics*, *Maths*, and *Classical Robotics* updated in this batch had no saved Markdown content, so they support collection curation context only and do not add durable factual detail beyond the broader study pattern already captured here.
 
 ## Open Questions
 
-- Should current broad technical study be split into dedicated learning tracks such as control systems, machine learning, signal processing, systems/programming, or mechanics?
-- Is there a durable goal behind the current breadth-first reading pattern, or is it best treated as open-ended exploratory study?
+- Should current broad technical study be split into dedicated learning tracks such as control systems, machine learning, robotics, or systems programming once there is stronger evidence of sustained focus?
+- Is there a durable study goal behind the current breadth-first exploration, or is broad sampling itself the intended mode for now?
