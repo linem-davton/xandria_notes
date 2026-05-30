@@ -17,7 +17,7 @@ Recent notes and library organization also show active exploratory study across 
 
 Recent reading activity also shows exploratory exposure to communication systems, networking, software architecture, statistics, reinforcement learning, differential geometry, and literary fiction.
 
-New notebook and reading-progress activity further strengthens current study evidence around robotics and embedded systems, Python and machine learning, C++ and scientific computing, and signals and systems.
+New notebook and reading-progress activity further strengthens current study evidence around robotics and embedded systems, Python and machine learning, C++ and scientific computing, signals and systems, logic, probability, competitive programming, algebraic topology, leadership/management reading, and Batman comics as leisure reading.
 
 ## Active Goals
 
@@ -29,7 +29,7 @@ A mechanics reading list and collection indicate current curation around foundat
 
 Current notebook and reading-progress activity indicate broad exploratory sampling rather than a single focused study track across several domains.
 
-Recent activity also suggests active sampling of several adjacent technical tracks at once rather than commitment to one canonical learning track: robotics, deep learning, Python programming, C++ systems/scientific computing, and signals/systems.
+Recent activity also suggests active sampling of several adjacent technical tracks at once rather than commitment to one canonical learning track: robotics, deep learning, Python programming, C++ systems/scientific computing, signals/systems, control, nonlinear dynamics, reinforcement learning, logic, probability, and competitive programming.
 
 ## People
 
@@ -57,6 +57,16 @@ Recent activity also suggests active sampling of several adjacent technical trac
 - Applied mechanics — mechanics reading-list resource
 - Classical Mechanics — mechanics reading-list resource
 - Advanced Engineering Dynamics — mechanics reading-list resource
+- Computer-Controlled Systems: Theory and Design — readable notebook with saved highlights and notes
+- Computer Systems: A Programmer's Perspective — readable notebook with saved highlights and notes
+- Batman: The Killing Joke — in-progress comic reading
+- A Basic Course in Algebraic Topology — newly opened readable
+- The 7 Habits of Highly Effective People — newly opened readable
+- Mathematical Introduction to Logic — in-progress readable
+- Robotics Research — in-progress readable
+- Guide to Competitive Programming — in-progress readable
+- A First Course in Probability — in-progress readable
+- Three Sigma Leadership: Or, the Way of the Chief Engineer — newly opened readable
 
 ## Notes
 
@@ -72,6 +82,10 @@ Recent readable notebooks show saved highlight-based notes for *Reward is enough
 
 Recent readable notebooks also contain saved highlights for *Embedded Robotics*, *Computers as Persuasive Social Actors*, and *Mining urban lifestyles: urban computing, human behavior and recommender systems*. These support durable evidence of exploratory technical reading, especially around robotics, human-computer interaction, and recommender systems, but not mastery.
 
-Recent reading progress adds low-progress exposure evidence for *Signals and Systems* and *Guide to Scientific Computing in C++*.
+Newly non-empty readable notebooks add direct evidence of exploratory reading in control systems and computer systems. The *Computer-Controlled Systems: Theory and Design* notebook contains saved highlights about limits of linear time-invariant continuous-time theory for computer-controlled systems, digital differential analyzers, system identification, and interrupt-driven process control. The *Computer Systems: A Programmer's Perspective* notebook contains saved highlights around Cygwin tools, K&R C, GNU gcc on IA32/x86-64, arithmetic overflow as a source of programming errors and security vulnerabilities, the Y86 teaching ISA, and pipelining.
+
+Recent reading progress adds exposure evidence for *Mathematical Introduction to Logic*, *Robotics Research*, *Guide to Competitive Programming*, and *A First Course in Probability*, plus newly opened exposure to *A Basic Course in Algebraic Topology*, *The 7 Habits of Highly Effective People*, and *Three Sigma Leadership*.
+
+Several newly touched readable notebooks remain empty, including *Python 3 Object-Oriented Programming, Second Edition*, *Manufacturing Consent*, *The Little Book of Deep Learning*, *Understanding the Incel Community on YouTube*, *Nonlinear Dynamics and Chaos*, and *Reinforcement Learning: An Introduction*; these indicate interest or setup rather than durable extracted understanding.
 
 ## Open Questions
