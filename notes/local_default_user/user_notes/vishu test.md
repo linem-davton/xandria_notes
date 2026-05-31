@@ -128,3 +128,8 @@ Third parties exist but rarely win national office due to the first-past-the-pos
 - [Make: Drones — David McGriffy
 
 [0132642875.pdf, p. 8](xandria://reader/location?readableId=read_198a8f5a-01df-4594-a961-f35eb92431e5&locationKind=paged&pageIndex=7&normalizedY=0.5255)
+
+
+Readable notebooks (notes linked to a specific book):**
+- [Embedded Robotics notebook](xandria://notes/user?noteId=note_4623f634-1828-41fa-9b8c-11c8f44ce24c) — has actual chapter notes on **Localization & Navigation**: quadtrees, visibility graphs, dead reckoning, radio/light beacons, and environment representation (linked to Bräunl's textbook)
+
