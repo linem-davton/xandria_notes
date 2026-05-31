@@ -13,7 +13,7 @@ Dashboard for durable execution state.
 ## Active Projects
 
 <!-- xandria:generated-section id="projects.active" -->
-- No active projects tracked yet.
+- [[projects/xandria-note-capability-testing|Xandria Note Capability Testing]]
 <!-- /xandria:generated-section -->
 
 ## By Goal
@@ -37,7 +37,7 @@ Dashboard for durable execution state.
 ## Recently Changed
 
 <!-- xandria:generated-section id="projects.recently_changed" -->
-- No recent project changes tracked yet.
+- [[projects/xandria-note-capability-testing|Xandria Note Capability Testing]]
 <!-- /xandria:generated-section -->
 
 ## Recent Decisions

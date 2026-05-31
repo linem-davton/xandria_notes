@@ -21,7 +21,7 @@ Durable map of the user's current context. Keep this page short and link to the 
 ## Active Projects
 
 <!-- xandria:generated-section id="home.active_projects" -->
-- No active projects tracked yet.
+- [[projects/xandria-note-capability-testing|Xandria Note Capability Testing]]
 <!-- /xandria:generated-section -->
 
 ## Learning
