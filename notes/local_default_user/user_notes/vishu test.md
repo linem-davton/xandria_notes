@@ -105,3 +105,26 @@ Third parties exist but rarely win national office due to the first-past-the-pos
 - **Lobbying & Interest Groups** — Organizations try to influence lawmakers on specific issues.
 - **The Media** — Acts as a watchdog but is also subject to polarization and bias.
 - **Political Polarization** — The gap between the two major parties has grown significantly in recent decades, making compromise harder.
+
+
+
+**Currently reading:**
+- [Springer Handbook of Robotics — Bruno Siciliano](xandria://readable/read_02a91a9b-5398-413f-81ad-3a63c6c995de) (0%)
+- [Automation, Production Systems and Computer-Aided Manufacturing — Mikell P. Groover](xandria://readable/read_acb7eb3f-5172-44ba-8566-a8d446f805f3) (6%)
+- [Embedded Robotics — Thomas Bräunl](xandria://readable/read_8ce68d6d-c9a7-4014-a189-5444948e695b) (4%)
+- [Robot Adventures in Python and C — Thomas Bräunl](xandria://readable/read_b142865b-3cb5-4f2e-a53b-e21b30a09f09) (0%)
+- [Programming Robots with ROS — Morgan Quigley](xandria://readable/read_c9565143-7efb-4ade-9dd7-0ce7ecd84222) (0%)
+- [ROS Robot Programming — YoonSeok Pyo](xandria://readable/read_7312d160-ba48-479d-9f64-38455654e00e) (0%)
+- [Robotics Research — Kaneko & Nakamura](xandria://readable/read_8609e8b0-926e-4333-a493-0187238564e3) (65%)
+- [Advanced Engineering Dynamics — H. R. Harrison](xandria://readable/read_bf9e42fd-be1f-46a5-b8c2-7f2f24236f74) (0%)
+
+**Ready to start (unread):**
+- [Introduction to Robotics — John J. Craig](xandria://readable/read_1ef42b1a-2e0f-4b78-9c1a-20be6f07a000)
+- [Modern Robotics: Mechanics, Planning, and Control — Kevin M. Lynch](xandria://readable/read_b474f993-f1ee-4f76-aeec-67119270af2b)
+- [Probabilistic Robotics — Sebastian Thrun](xandria://readable/read_3dc5a678-788f-4c2a-82f9-cd4df0513081)
+- [Behavior-Based Robotics — Ronald Arkin](xandria://readable/read_825e14f2-0b1e-4c1c-9153-5937f00eff28)
+- [Planning Algorithms — Steven M. LaValle](xandria://readable/read_8bbbfe67-ad45-40a9-babb-2a659ee54bdd)
+- [Kalman and Bayesian Filters in Python — Roger R Labbe Jr](xandria://readable/read_d65f3b14-bcc5-4b1a-a4b0-23ddf2a8c074)
+- [Make: Drones — David McGriffy
+
+[0132642875.pdf, p. 8](xandria://reader/location?readableId=read_198a8f5a-01df-4594-a961-f35eb92431e5&locationKind=paged&pageIndex=7&normalizedY=0.5255)
