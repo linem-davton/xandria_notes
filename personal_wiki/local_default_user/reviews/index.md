@@ -26,19 +26,18 @@ Concrete wiki correctness, consistency, and gap issues only.
 ## Gaps
 
 <!-- xandria:generated-section id="reviews.gaps" -->
-- [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]] - severity: `medium` - affected: [[index|index.md]], [[reviews|reviews/index.md]], [[reviews/missing-review-pages-from-job-hints|reviews/missing-review-pages-from-job-hints.md]]
+- No gaps currently tracked.
 <!-- /xandria:generated-section -->
 
 ## Resolved Items
 
 <!-- xandria:generated-section id="reviews.resolved" -->
 - [[reviews/broken-link-life-areas-study-to-resources-book-designing-data-intensive-applications|Broken Link Resolved]] - severity: `medium` - affected: [[life-areas/study]]
+- [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]] - severity: `medium` - affected: [[index|index.md]], [[reviews|reviews/index.md]], [[reviews/missing-review-pages-from-job-hints|reviews/missing-review-pages-from-job-hints.md]]
 <!-- /xandria:generated-section -->
 
 ## Related Pages
 
 <!-- xandria:generated-section id="reviews.related_pages" -->
-- [[index|index.md]]: [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]]
-- [[reviews|reviews/index.md]]: [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]]
-- [[reviews/missing-review-pages-from-job-hints|reviews/missing-review-pages-from-job-hints.md]]: [[reviews/missing-review-pages-from-job-hints|Missing review pages from job hints]]
+- No related review pages currently tracked.
 <!-- /xandria:generated-section -->

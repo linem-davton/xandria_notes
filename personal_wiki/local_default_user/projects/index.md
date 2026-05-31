@@ -49,7 +49,9 @@ Dashboard for durable execution state.
 ## Open Project Questions
 
 <!-- xandria:generated-section id="projects.open_questions" -->
-- No open project questions tracked yet.
+- [[projects/xandria-note-capability-testing|Do title/body search and backlink/source-link behavior work as expected for the test note?]]
+- [[projects/xandria-note-capability-testing|Does image persistence remain stable after reopening the note?]]
+- [[projects/xandria-note-capability-testing|Should repeated Xandria capability-testing notes later be consolidated under a broader Xandria QA or product-testing project?]]
 <!-- /xandria:generated-section -->
 
 ## Commitments

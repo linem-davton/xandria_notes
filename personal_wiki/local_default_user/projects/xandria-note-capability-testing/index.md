@@ -40,9 +40,41 @@ None recorded.
 
 ## Open Questions
 
-- Does image persistence remain stable after reopening the note?
-- Do title/body search and backlink/source-link behavior work as expected for the test note?
-- Should repeated Xandria capability-testing notes later be consolidated under a broader Xandria QA or product-testing project?
+```xandria-question
+id: "question:image-persistence-after-reopen"
+question: "Does image persistence remain stable after reopening the note?"
+status: open
+confidence: strong
+evidence_at: 2026-05-31
+scope: projects/xandria-note-capability-testing
+source: local_evidence
+source_refs:
+  - "note:note_2c9fdf19-c3f6-49d6-b37c-f55bb09917f3#test-checklist"
+```
+
+```xandria-question
+id: "question:image-test-search-and-link-behavior"
+question: "Do title/body search and backlink/source-link behavior work as expected for the test note?"
+status: open
+confidence: strong
+evidence_at: 2026-05-31
+scope: projects/xandria-note-capability-testing
+source: local_evidence
+source_refs:
+  - "note:note_2c9fdf19-c3f6-49d6-b37c-f55bb09917f3#test-checklist"
+```
+
+```xandria-question
+id: "question:consolidate-xandria-capability-testing-notes"
+question: "Should repeated Xandria capability-testing notes later be consolidated under a broader Xandria QA or product-testing project?"
+status: open
+confidence: uncertain
+evidence_at: 2026-05-31
+scope: projects/xandria-note-capability-testing
+source: agent_inference
+source_refs:
+  - "wiki:projects/xandria-note-capability-testing#open-questions"
+```
 
 ## Plan
 
