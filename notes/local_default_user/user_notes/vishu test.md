@@ -72,4 +72,36 @@ $$x = y$$
 - Search and the knowledge graph connect books, notes, annotations, domains, and topics.
 - The Agent uses current app context to answer questions and prepares changes for review before they are applied.
 
-----
+---
+
+# US Politics
+
+## How the US Government Is Structured
+
+The US federal government has three branches:
+
+- **Legislative** — Congress (Senate and House of Representatives) makes laws, controls the budget, and declares war.
+- **Executive** — The President enforces laws, commands the military, conducts foreign policy, and can veto legislation.
+- **Judicial** — The Supreme Court and lower federal courts interpret laws and review them for constitutionality.
+
+A system of **checks and balances** keeps any one branch from becoming too powerful.
+
+## Elections
+
+Presidential elections happen every four years via the **Electoral College** — each state gets electors based on its congressional representation, and a candidate needs 270 of 538 electoral votes to win. Midterm elections (every two years) decide all House seats and about a third of Senate seats.
+
+## Political Parties
+
+Two major parties dominate:
+
+- **Democratic Party** — generally center-left, supports social programs, healthcare reform, climate action, and regulation.
+- **Republican Party** — generally center-right, supports lower taxes, free markets, strong military, and states' rights.
+
+Third parties exist but rarely win national office due to the first-past-the-post voting system.
+
+## Key Concepts
+
+- **Federalism** — Power is divided between the national government and state governments.
+- **Lobbying & Interest Groups** — Organizations try to influence lawmakers on specific issues.
+- **The Media** — Acts as a watchdog but is also subject to polarization and bias.
+- **Political Polarization** — The gap between the two major parties has grown significantly in recent decades, making compromise harder.
