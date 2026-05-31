@@ -4,7 +4,7 @@ title: Youtube System Design Interview - Mermaid Diagram
 
 # Youtube System Design Interview
 
-```mermaid {width=981}
+```mermaid {width=1013 align=left}
 flowchart TD
     U[Users] --> CDN[CDN / Edge Cache]
     U --> LB[Load Balancer]
@@ -54,3 +54,8 @@ flowchart TD
 - Core services: auth/users, metadata, search, recommendations, comments
 - Scale concerns: hot videos, caching, async processing, partitioning, replication
 - Reliability: retries, idempotency, monitoring, multi-region CDN
+
+
+
+
+

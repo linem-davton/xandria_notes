@@ -16,11 +16,11 @@ Test Xandria note capabilities systematically, starting with image handling.
 
 I am making some changes here in remote! hkh kh kh 
 
+![Hand drawing|640](../drawings/drw_5c9fc40beebd4b80957fe542680c13a7.png)
 And this are some changes here from new save!
 And this is how we work, and yes. And yes, it is now.  And what is wrong?
 
 
-![Hand drawing|640](../drawings/drw_5c9fc40beebd4b80957fe542680c13a7.png)
 
 This save is from background sync - Lets hope so! 
 

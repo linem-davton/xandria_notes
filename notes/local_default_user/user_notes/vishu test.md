@@ -7,6 +7,7 @@ size: 16:9
 
 # Math
 ## Let's do maths
+![Cow standing in a grassy field|469](../images/3015c15e0203a0eaf00c472573b26122186b57e3d6d3bd6be2c90f89a230f7eb.webp)
 
 - meow meow
   - meow cat
@@ -18,7 +19,6 @@ $p = \pi$
 # AI
 ## Let's do AI and ML
 
-![Cow standing in a grassy field](../images/3015c15e0203a0eaf00c472573b26122186b57e3d6d3bd6be2c90f89a230f7eb.webp)
 
 car is cat
 
