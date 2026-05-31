@@ -60,4 +60,14 @@ $$x = y$$
 ## This is some Test Diag
 ![Hand drawing|640|left](../drawings/drw_7fedfa3644af402c84fbae14ce24e60f.png)
 
+---
+
+# How Xandria Works
+
+- Xandria combines a reader, notes, library, search, and personal wiki in one workspace.
+- The reader tracks books, PDFs, page locations, highlights, drawings, and source links.
+- Notes can stay connected to the material they came from, so ideas can be traced back to the original page.
+- Search and the knowledge graph connect books, notes, annotations, domains, and topics.
+- The Agent uses current app context to answer questions and prepares changes for review before they are applied.
+
 ----
