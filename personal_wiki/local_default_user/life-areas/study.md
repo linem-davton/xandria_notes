@@ -11,7 +11,7 @@ review_cadence: monthly
 
 ## Current State
 
-Study currently includes active reading on welding and metallurgy topics through [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]]. The user follows a breadth-first exploratory study pattern across many technical areas: AI and machine learning, control systems and dynamical systems, signal processing and applied mathematics, computer systems and programming, mechanics, robotics, embedded systems, networking, deep learning, probability, logic, competitive programming, and related fields.
+Study currently includes active reading on welding and metallurgy topics through [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]], and on robotics through [[resources/book/springer-handbook-of-robotics|Springer Handbook of Robotics]]. The user follows a breadth-first exploratory study pattern across many technical areas: AI and machine learning, control systems and dynamical systems, signal processing and applied mathematics, computer systems and programming, mechanics, robotics, embedded systems, networking, deep learning, probability, logic, competitive programming, and related fields.
 
 Reading activity suggests broad sampling rather than commitment to a single canonical learning track. Leisure reading spans literary fiction, romance fiction, comics, philosophy, and memoir.
 
@@ -32,6 +32,7 @@ Notebook evidence suggests exploratory clustering around mathematically oriented
 ## Resources
 
 - [[resources/book/welding-metallurgy-second-edition|Welding Metallurgy, Second Edition]]
+- [[resources/book/springer-handbook-of-robotics|Springer Handbook of Robotics]]
 - Embedded Robotics — readable notebook with saved highlights and notes
 - Deep Learning with Python — readable notebook currently empty, but paired with recent notebook activity and technical study context
 - MIT C++ Combined — readable notebook currently empty, but paired with recent notebook activity and technical study context
