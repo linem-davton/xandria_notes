@@ -11,6 +11,8 @@ size: 16:9
 
 - meow meow
   - meow cat
+ 
+  ![Pasted image](../images/a5d499b2c17b333c53719c59532bbed3e795d5d8478f826431b1e3ebc0755b37.jpg)
 
 $p = \pi$
 
@@ -63,6 +65,8 @@ $$x = y$$
 ![Hand drawing|640|left](../drawings/drw_7fedfa3644af402c84fbae14ce24e60f.png)
 
 ---
+
+
 
 # How Xandria Works
 
