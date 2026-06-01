@@ -73,14 +73,14 @@
 
 ## Recommended Reading Order
 
-```
-Phase 1 (Linear Algebra) ──────┐
-                               ├──> Phase 4 (AI Math)
-Phase 2 (Calculus) ────────────┘
-                               │
-Phase 3 (Probability/Stats) ───┘
-                               ├──> Phase 5 (Robotics Math)
-Phase 1 continued (Numerical) ─┘
+```mermaid
+flowchart TD
+    P1["Phase 1: Linear Algebra"] --> P4["Phase 4: AI & ML Mathematics"]
+    P2["Phase 2: Calculus & Analysis"] --> P4
+    P3["Phase 3: Probability & Statistics"] --> P4
+    P1 --> P1N["Phase 1 cont: Numerical Linear Algebra"]
+    P4 --> P5["Phase 5: Robotics Mathematics"]
+    P1N --> P5
 ```
 
 **Start with Strang's Linear Algebra cover-to-cover**, then branch into Kreyszig for calculus/ODEs and Riley for probability. Once fluent in vectors/matrices/gradients, dive into Brunton's Data Driven Science for the ML math bridge, then tackle the Springer Handbook of Robotics for the robotics side.
