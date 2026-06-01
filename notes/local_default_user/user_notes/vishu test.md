@@ -42,7 +42,7 @@ car is cat
 $$x = y$$
 
 ### Books to Read
-![Pasted image|578|left](../images/9282a38b5fb7dfb29d4d0d357f3a333be9f70ab824503476bb3d7c7ffabccf24.jpg)
+
 
 | # | Title | Subject area |
 |---|---|---|
