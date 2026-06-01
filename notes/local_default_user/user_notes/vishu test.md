@@ -107,6 +107,26 @@ Third parties exist but rarely win national office due to the first-past-the-pos
 - **Political Polarization** — The gap between the two major parties has grown significantly in recent decades, making compromise harder.
 
 
+# Indian Politics
+
+## The 2024 General Election
+
+The 2024 Indian general election was held in seven phases from 19 April to 1 June 2024 to elect all 543 members of the 18th Lok Sabha.
+
+- **Registered voters**: ~968 million (largest electorate in the world)
+- **Voter turnout**: ~66.1%
+- **Total seats**: 543 (272 needed for a majority)
+
+### Key Results
+
+| Party / Alliance | Seats Won | Vote Share |
+|---|---|---|
+| National Democratic Alliance (NDA) | 293 | ~45% |
+| Indian National Developmental Inclusive Alliance (INDIA) | 234 | ~41% |
+| Others | 16 | ~14% |
+
+The Bharatiya Janata Party (BJP) alone won 240 seats, falling short of a single-party majority. Prime Minister Narendra Modi returned for a third term at the head of a coalition government.
+
 
 **Currently reading:**
 - [Springer Handbook of Robotics — Bruno Siciliano](xandria://readable/read_02a91a9b-5398-413f-81ad-3a63c6c995de) (0%)
