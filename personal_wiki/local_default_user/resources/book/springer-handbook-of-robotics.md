@@ -28,7 +28,7 @@ projects: []
 
 ## Why It Matters
 
-Reading progress evidence shows this comprehensive robotics reference handbook is part of the user's current breadth-first exploratory study across robotics and related technical areas. At 65% read with substantial engaged reading time, the user has made sustained progress through this large reference work.
+Reading progress evidence shows this comprehensive robotics reference handbook is part of the user's current breadth-first exploratory study across robotics and related technical areas. At 40% read, the user has made meaningful progress through this large reference work.
 
 ## Useful For
 
@@ -53,9 +53,9 @@ No specific goal, project, or learning track is yet grounded in the wiki.
 
 ## Notes And Annotations
 
-- Durable reading progress: in progress, 65% read as of 2026-05-31.
-- Total engaged reading time: approximately 33 minutes.
-- Last opened at page 1059 of the document.
+- Durable reading progress: in progress, 40% read as of 2026-06-01.
+- Total engaged reading time: approximately 34 minutes.
+- Last opened at page 650 of the document.
 - A user note ("vishu test") links to this readable.
 
 ## Source Links
